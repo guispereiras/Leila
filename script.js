@@ -22,7 +22,7 @@ if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
   }
 
 function tanks() {
-alert("Você tem sérios problemas em aceitar sair comigo KKKKKKKKKKKKKKKK ASS: PEPPO/SEXO")
+alert("To curtindo bastante sair contigo viu....Só bora AQUI É SÂO PAULO PORRA")
 }  
 
 function not() {
